@@ -1,2 +1,2 @@
 # ProblemInstancesHamiltonianCompletionProblem
-This repository contains problem instances for the Hamitonian Completion Problem (see the paper "Jooken, J., Leyman, P., & De Causmaecker, P. (2020). A multi-start local search algorithm for the Hamiltonian completion problem on undirected graphs. Journal of Heuristics, 26, 743-769")
+This repository contains problem instances for the Hamitonian Completion Problem (see the paper "Jooken, J., Leyman, P., & De Causmaecker, P. (2020). A multi-start local search algorithm for the Hamiltonian completion problem on undirected graphs. Journal of Heuristics, 26, 743-769", available at https://link.springer.com/article/10.1007/s10732-020-09447-9)
